@@ -1,0 +1,118 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --text-montserrat-regular-16: Montserrat;
+  --text-zuume-medium-64: Zuume;
+  --font-kode-mono: "Kode Mono";
+  --font-dm-sans: "DM Sans";
+  --text-helvetica-bold-5243: Helvetica;
+  --text-roboto-regular-199: Roboto;
+
+  /* font sizes */
+  --text-montserrat-regular-16-size: 1rem;
+  --text-montserrat-regular-18-size: 1.125rem;
+  --text-montserrat-regular-30-size: 1.875rem;
+  --text-montserrat-regular-24-size: 1.5rem;
+  --text-montserrat-medium-20-size: 1.25rem;
+  --font-size-lgi: 1.188rem;
+  --text-zuume-medium-64-size: 4rem;
+  --font-size-32xl: 3.188rem;
+  --font-size-19xl: 2.375rem;
+  --font-size-12xl: 1.938rem;
+  --font-size-7xl: 1.625rem;
+  --font-size-23xl: 2.625rem;
+  --text-roboto-regular-199-size: 1.244rem;
+  --text-roboto-regular-239-size: 1.494rem;
+  --text-helvetica-bold-5243-size: 3.275rem;
+  --text-montserrat-medium-243-size: 1.519rem;
+  --text-zuume-medium-648-size: 4.05rem;
+  --text-helvetica-bold-166-upper-size: 1.038rem;
+  --text-helvetica-light-155-title-size: 0.969rem;
+  --text-helvetica-bold-1541-upper-size: 0.963rem;
+  --text-helvetica-light-1716-size: 1.075rem;
+  --text-helvetica-bold-2906-upper-size: 1.819rem;
+  --text-helvetica-regular-875-upper-size: 0.55rem;
+  --text-helvetica-bold-10-size: 0.625rem;
+  --text-helvetica-regular-1181-title-size: 0.738rem;
+  --text-helvetica-bold-12-title-size: 0.75rem;
+
+  /* Colors */
+  --text-gray-chateau: #a9aeb2;
+  --text-athens-gray: #e5e7eb;
+  --text-wild-sand1: #f5f5f5;
+  --text-wild-sand: #f4f4f4;
+  --text-concrete: #f2f2f2;
+  --text-seashell: #f1f1f1;
+  --text-black: #000;
+  --text-tangerine: #f09700;
+  --text-mine-shaft: #2b2b2b;
+  --color-gray-100: #262626;
+  --color-gray-200: rgba(255, 255, 255, 0.9);
+  --text-white-10: rgba(255, 255, 255, 0.1);
+  --text-white-75: rgba(255, 255, 255, 0.75);
+  --text-white-15: rgba(255, 255, 255, 0.15);
+  --text-cod-gray-90: rgba(18, 18, 18, 0.9);
+  --text-white: #fff;
+  --color-silver-100: rgba(191, 191, 191, 0.9);
+  --text-saffron: #f6c42e;
+  --text-nevada: #697172;
+  --text-cerulean: #00b8fc;
+
+  /* Gaps */
+  --gap-5xl: 1.5rem;
+  --gap-xl: 1.25rem;
+  --gap-xs: 0.75rem;
+  --gap-5xs: 0.5rem;
+  --gap-base: 1rem;
+  --gap-mini: 0.937rem;
+  --gap-8xs-3: 0.268rem;
+
+  /* Paddings */
+  --padding-xl: 1.25rem;
+  --padding-13xl: 2rem;
+  --padding-2xl: 1.312rem;
+  --padding-mini: 0.937rem;
+  --padding-8xs: 0.312rem;
+  --padding-7xs: 0.375rem;
+  --padding-xs: 0.75rem;
+  --padding-11xs: 0.125rem;
+  --padding-base: 1rem;
+  --padding-10xs: 0.187rem;
+  --padding-16xl: 2.187rem;
+  --padding-15xl: 2.125rem;
+  --padding-43xl: 3.875rem;
+  --padding-21xl: 2.5rem;
+  --padding-129xl: 9.25rem;
+  --padding-277xl: 18.5rem;
+  --padding-3xl: 1.375rem;
+  --padding-8xs-5: 0.281rem;
+  --padding-37xl: 3.5rem;
+  --padding-12xl: 1.937rem;
+  --padding-11xl: 1.875rem;
+  --padding-3xs: 0.625rem;
+  --padding-136xl-5: 9.718rem;
+  --padding-82xl: 6.312rem;
+  --padding-104xl-5: 7.718rem;
+  --padding-61xl: 5rem;
+  --padding-30xl: 3.062rem;
+  --padding-6xs: 0.437rem;
+  --padding-27xl: 2.875rem;
+  --padding-sm-6: 0.85rem;
+  --padding-lgi: 1.187rem;
+  --padding-8xs-8: 0.3rem;
+  --padding-lg: 1.125rem;
+  --padding-5xs: 0.5rem;
+  --padding-6xl: 1.562rem;
+  --padding-63xl: 5.125rem;
+  --padding-5xl: 1.5rem;
+
+  /* Border radiuses */
+  --br-232xl: 251px;
+  --br-9xs: 4px;
+  --br-lgi: 19px;
+  --br-6xs: 7px;
+}
